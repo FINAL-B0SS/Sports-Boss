@@ -17,6 +17,9 @@ capsule {
 		section (NewsAndMagazines)
 		section (Sports)
 	}
+	store-countries {
+		all
+	}
 	capsule-imports {
 		import (bixby.audioPlayer) { version (0.3.13) as (audioPlayer)
 		}
